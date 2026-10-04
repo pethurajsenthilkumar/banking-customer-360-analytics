@@ -1,0 +1,5 @@
+cluster_group,customers,average_credit_score,average_balance,average_monthly_ir,average_engagement,average_risk_score,average_cards,average_services
+1,31017,674.82,26992926.83,24210529.71,38.32,0.27,2.57,3.41
+2,33785,668.38,40836236.54,22075092.5,20.82,0.32,2.35,2.8
+3,1696,742.28,117693391.61,99652122.64,85.65,0.08,3.49,5.8
+4,13502,738.74,183539903.47,100525922.09,37.09,0.17,3.39,5.54
